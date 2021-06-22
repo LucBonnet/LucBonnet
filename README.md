@@ -1,7 +1,9 @@
 ### Olá, sejam bem vindos ao meu GitHub 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucBonnet&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=LucBonnet&show_icons=true&theme=dark" />
+<div style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucBonnet&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucBonnet&show_icons=true&theme=dark" />
+</div>
 
 <!--
 **LucBonnet/LucBonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
